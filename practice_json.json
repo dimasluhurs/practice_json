@@ -4,5 +4,17 @@
     "tittle": "Atomic Habits",
     "authors": "James Clear",
     "bookshelves": "Selp-help"
+  },
+  {
+    "id": 2,
+    "tittle": "You Do You",
+    "authors": "Fellexandro Ruby",
+    "bookshelves": "Selp-awareness"
+  },
+  {
+    "id": 3,
+    "tittle": "Jose Mourinho - Up Close and Personal",
+    "authors": "Robert Beasley",
+    "bookshelves": "Biography"
   }
 ]
