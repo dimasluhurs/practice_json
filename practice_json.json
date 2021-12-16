@@ -2,31 +2,56 @@
   {
     "id": 1,
     "tittle": "Atomic Habits",
-    "authors": "James Clear",
+    "authors": [
+      {
+        "name": "James Clear",
+        "birth_year": 2000
+      }
+    ],
     "bookshelves": "Selp-help"
   },
   {
     "id": 2,
     "tittle": "You Do You",
-    "authors": "Fellexandro Ruby",
+    "authors": [
+      {
+        "name": "Fellexandro Ruby",
+        "birth_year": 2001
+      }
+    ],
     "bookshelves": "Selp-awareness"
   },
   {
     "id": 3,
     "tittle": "Jose Mourinho - Up Close and Personal",
-    "authors": "Robert Beasley",
+    "authors": [
+      {
+        "name": "Robert Beasley",
+        "birth_year": 2002
+      }
+    ],
     "bookshelves": "Biography"
   },
   {
     "id": 4,
     "tittle": "Ubur-Ubur Lembur",
-    "authors": "Raditya Dika",
+    "authors": [
+      {
+        "name": "Raditya Dika",
+        "birth_year": 2003
+      }
+    ],
     "bookshelves": "Fiksi Humor"
   },
   {
     "id": 5,
     "tittle": "Cinta Brontosaurus",
-    "authors": "Raditya Dika",
+    "authors": [
+      {
+        "name": "Raditya Dika",
+        "birth_year": 2003
+      }
+    ],
     "bookshelves": "Fiksi Humor"
   }
 ]
